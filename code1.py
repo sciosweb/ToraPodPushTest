@@ -12,3 +12,4 @@ print(f"{num1} + {num2} = {result}")
 
 test1
 test2
+test3
