@@ -11,7 +11,3 @@ result = add_numbers(num1, num2)
 print(f"{num1} + {num2} = {result}")
 
 
-test
-test2
-test3
-test4
