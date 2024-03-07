@@ -9,3 +9,6 @@ num2 = float(input("두 번째 숫자를 입력하세요: "))
 # 결과 출력
 result = add_numbers(num1, num2)
 print(f"{num1} + {num2} = {result}")
+
+
+test
